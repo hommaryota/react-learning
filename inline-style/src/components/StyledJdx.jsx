@@ -6,7 +6,6 @@ export const StyledJsx = () => {
         <button className="button">FIGHT!!</button>
       </div>
 
-      {/* test */}
       <style jsx="true">{`
         .container {
           border: solid 2px #392eff;
