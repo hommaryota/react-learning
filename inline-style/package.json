@@ -39,7 +39,11 @@
     ]
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.22",
+    "babel-plugin-styled-components": "^2.0.2",
+    "cross-env": "^7.0.3",
     "css-loader": "^6.6.0",
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "styled-components": "^5.3.3"
   }
 }
