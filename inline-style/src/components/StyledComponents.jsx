@@ -9,6 +9,7 @@ export const StyledComponents = () => {
   );
 };
 
+//
 const Container = styled.div`
   border: solid 2px #392eff;
   border-radius: 20px;
