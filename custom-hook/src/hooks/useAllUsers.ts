@@ -1,3 +1,4 @@
+// jsonデータを取得するためのライブラリ
 import axios from "axios";
 import {useState} from "react";
 import {User} from "../types/api/user";
